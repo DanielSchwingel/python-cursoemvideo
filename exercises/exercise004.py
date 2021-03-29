@@ -1,3 +1,4 @@
+#Dissecando uma variável
 algo = input('Digite algo:')
 print('O tipo primitivo desse valor é:', type(algo))
 print('Só tem espaços?', algo.isspace())
